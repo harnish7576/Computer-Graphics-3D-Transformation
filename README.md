@@ -28,9 +28,9 @@ Implementing the rendering of the target scene using WebGL and the tessellation 
 
 • If you load the file in your browser with no code modifications, the page should look like 
 
-![teapot img](README.png)
+![teapot img](README_image.png)
 
 
-For your assignment, an approximation of the scene, consisting of only three shapes, would be acceptable. As an example, here is an image of an image of an approximation of the scene to which you should aspire
+For this assignment, an approximation of the scene, consisting of only three shapes, would be acceptable. As an example, here is an image of an image of an approximation of the scene to which you should aspire
 
 ![output img](Output.png)
