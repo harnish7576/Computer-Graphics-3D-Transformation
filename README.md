@@ -8,10 +8,9 @@ Implementing the rendering of the target scene using WebGL and the tessellation 
 • In the file cg IShape. js, please fill in your code for the following functions. You can use the implementations from your previous assignments or updates you might have made since your last submission. Note that these functions have now been encapsulated into the class cgIShape. Finally, fill in as many shapes as you completed in your last assignments. You should at least have an implementation for the cube...and you can complete this assignment by just using cubes if need be.
 
 * makeCube (subdivisions)
-
 * makeCylinder (radialdivision,heightdivision)
-
-* makeCone (radialdivision, heightdivision) o makeSphere (slices, stacks)
+* makeCone (radialdivision, heightdivision) 
+* makeSphere (slices, stacks)
 
 • The file teapot. js contains vertices for the Utah teapot so you can easily include the teapot in your scene.
 
@@ -30,3 +29,8 @@ Implementing the rendering of the target scene using WebGL and the tessellation 
 • If you load the file in your browser with no code modifications, the page should look like 
 
 ![teapot img](README.png)
+
+
+For your assignment, an approximation of the scene, consisting of only three shapes, would be acceptable. As an example, here is an image of an image of an approximation of the scene to which you should aspire
+
+![output img](Output.png)
