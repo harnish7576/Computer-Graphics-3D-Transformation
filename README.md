@@ -29,4 +29,4 @@ Implementing the rendering of the target scene using WebGL and the tessellation 
 
 • If you load the file in your browser with no code modifications, the page should look like 
 
-![teapot img](Computer-Graphics-3D-Transformation/README.png)
+![teapot img][Computer-Graphics-3D-Transformation/README.png][]
